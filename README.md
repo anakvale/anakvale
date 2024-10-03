@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Ana Kelly Vale 😺</h1>
 <h3 align="center">an operations analyst and data analysis student.</h3>
 
-- 🌱 I’m currently learning **Python and SQL, but sometimes I like to study frontend too.**
+- 🌱 I’m currently learning **Python and SQL, but sometimes I like to study front-end too.**
 
 - 👩‍🎓 I have an ongoing bachelor's degree in **actuarial science**
 
