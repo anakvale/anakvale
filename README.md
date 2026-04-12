@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and SQL, but sometimes I like to study front-end too.**
 
-- 👩‍🎓 I have an ongoing bachelor's degree in **actuarial science**
+- 👩‍🎓 I have an ongoing associate degree in **Systems Analysis and Development**.
 
 - 📫 How to reach me: **anakvale@gmail.com**
 
